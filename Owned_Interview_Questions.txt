@@ -1,0 +1,21 @@
+**********************************Core Java***************************************
+
+1). What is a class ?
+2). What is an object ?
+3). What is JIT compiler ?
+4). What is bytecode in java ?
+5). Difference between this() and super() in java ?
+6). What is method overloading in java ?
+7). Why java is platform independent?
+8). Difference between abstract class and interface ?
+
+_________________________________________________________________________________________________________________
+
+**********************************Advance Java**************************************
+
+1). difference between @RestController and @Controller ?
+https://www.javacodegeeks.com/2017/08/difference-restcontroller-controller-annotation-spring-mvc-rest.html
+
+
+2). Difference between @Component and @Service.
+https://javarevisited.blogspot.com/2017/11/difference-between-component-service.html#axzz7lwdctqkJ
