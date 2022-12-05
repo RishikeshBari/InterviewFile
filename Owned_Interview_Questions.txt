@@ -9,6 +9,13 @@
 7). Why java is platform independent?
 8). Difference between abstract class and interface ?
 
+9). what are static blocks and static initializers in Java ?
+10). How to call one constructor from the other constructor ?
+11). What is method overriding in java ?
+12). What is super keyword in java ?
+13). Difference between method overloading and method overriding in java ?
+14). 
+
 _________________________________________________________________________________________________________________
 
 **********************************Advance Java**************************************
@@ -19,3 +26,38 @@ https://www.javacodegeeks.com/2017/08/difference-restcontroller-controller-annot
 
 2). Difference between @Component and @Service.
 https://javarevisited.blogspot.com/2017/11/difference-between-component-service.html#axzz7lwdctqkJ
+
+3). What is Spring boot?
+	Sprint boot is a Java-based spring framework used for Rapid Application Development (to build stand-alone microservices). It 	has extra support of auto-configuration and embedded application server like tomcat, jetty, etc.
+
+4). What are the advantages of using Spring Boot?
+	The advantages of Spring Boot are listed below:
+
+	Easy to understand and develop spring applications.
+	Spring Boot is nothing but an existing framework with the addition of an embedded HTTP server and annotation configuration which makes it easier to understand and faster the process of development.
+	Increases productivity and reduces development time.	
+	Minimum configuration.
+	We don’t need to write any XML configuration, only a few annotations are required to do the configuration.
+
+5). Why Spring Boot over Spring?
+	Below are some key points which spring boot offers but spring doesn’t:
+
+	Starter POM :- Starter POMs are a set of convenient dependency descriptors that you can include in your application.
+					You get a one-stop-shop for all the Spring and related technology that you need, without having to hunt 
+					through sample code and copy paste loads of dependency descriptors.
+	Version Management.
+	Auto Configuration.
+	Component Scanning.
+	Embedded server.
+	InMemory DB.
+	Actuators :-Spring Boot's 'Actuator' dependency is used to monitor and manage the Spring web application. 
+				We can use it to monitor and manage the application with the help of HTTP endpoints.
+
+
+6). How does Spring Boot works?
+	Spring Boot automatically configures your application based on the dependencies you have added to the project by 
+	using annotation. The entry point of the spring boot application is the class that contains @SpringBootApplication 
+	annotation and the main method.
+
+	Spring Boot automatically scans all the components included in the project by using @ComponentScan annotation.
+
